@@ -1,5 +1,5 @@
 # quizapp
-Quizapp made with java, full functionalities and admin CMS 
+Quizapp made with java, full functionalities and admin CMS with java, Tomcat server and MySQL.
 
 # How to run code
 Clone project or download zip file and paste in NetbeansProjects 
